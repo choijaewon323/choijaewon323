@@ -3,6 +3,10 @@
 # Choi Jaewon
 #### Backend-Engineer
 
+## Blogs
+Tistory : <https://jjjaewon.tistory.com/> <br>
+Naver : <https://blog.naver.com/casdfghjke> <br>
+
 <br>
 
 ## Baekjoon Online Judge

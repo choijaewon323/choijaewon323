@@ -23,4 +23,4 @@ Naver : <https://blog.naver.com/casdfghjke> <br>
 <img src = "https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=springboot&logoColor=white" /> <img src = "https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=spring&logoColor=white" />
 
 ## Databases
-<img src = "https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=mariadb&logoColor=white" />
+<img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />

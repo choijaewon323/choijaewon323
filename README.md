@@ -9,11 +9,6 @@ Naver : <https://blog.naver.com/casdfghjke> <br>
 
 <br>
 
-## Baekjoon Online Judge
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=casdfghjke)](https://solved.ac/casdfghjke/)
-
 <br>
 
 ## CodeTree

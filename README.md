@@ -9,6 +9,9 @@ Naver : <https://blog.naver.com/casdfghjke> <br>
 
 <br>
 
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijaewon323&show_icons=true&theme=gruvbox)
+
 <br>
 
 ## Baekjoon
